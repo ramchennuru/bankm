@@ -1,0 +1,16 @@
+twilio:
+  TWILIO_ACCOUNT_SID=AC7e8ba02807ed926d076bf94eb56361b1
+  TWILIO_AUTH_TOKEN=f91128c9ca5d1845643e75040f63a931
+  trial_number:+13854255387
+
+spring.jpa:
+  hibernate.ddl-auto: update
+  show-sql: true
+
+spring.datasource:
+ driverClassName: com.mysql.cj.jdbc.Driver
+ url: jdbc:mysql://localhost:3306/bankma1
+ username: root
+ password: Ramr161189@
+
+
